@@ -1,0 +1,21 @@
+{
+	"name": "jguizado-adf-dataengeneered3",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned,UserAssigned",
+		"principalId": "08e7e4d9-f7cf-44bc-b849-76413868b590",
+		"tenantId": "c39463f6-d32c-4fcb-a8a4-09ed1320bcc1",
+		"userAssignedIdentities": {
+			"/subscriptions/430f2b9c-c23f-4f81-8f1d-26189e9bab08/resourcegroups/rg-dataengineer-lab/providers/Microsoft.ManagedIdentity/userAssignedIdentities/jguizado-uami-dataengineered3": {
+				"clientId": "66ada314-fc0b-41ce-991b-87cde5e54257",
+				"principalId": "65ad7e13-0cf7-40a0-babe-54b10fcc9715"
+			}
+		}
+	}
+}
